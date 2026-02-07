@@ -1,0 +1,8 @@
+{
+  "name": "MM&GG v2",
+  "description": "A high-performance real estate, furniture, and paints marketplace tailored for the Nigerian market with premium branding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
